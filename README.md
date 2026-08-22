@@ -33,6 +33,15 @@ CI-checked, and honest about
 its limits — every dataset is synthetic, and each README states what the tool
 *cannot* do alongside what it can.
 
+## For fun
+
+Small, complete browser experiments built to be played, with no business claim
+attached.
+
+| repo | the game | the hook |
+|---|---|---|
+| [gorilla-golden-eye](https://github.com/jbisaccia-9/gorilla-golden-eye) | a dependency-free first-person browser shooter with three missions, enemy combat, objectives, and desktop and touch controls | a walking, talking gorilla secret agent who speaks only Italian |
+
 ## Elsewhere
 
 [getaiintegrations.com](https://getaiintegrations.com/) ·
