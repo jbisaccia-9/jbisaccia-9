@@ -40,7 +40,7 @@ attached.
 
 | repo | the game | the hook |
 |---|---|---|
-| [gorilla-golden-eye](https://github.com/jbisaccia-9/gorilla-golden-eye) | a dependency-free first-person browser shooter with three missions, enemy combat, objectives, and desktop and touch controls | a walking, talking gorilla secret agent who speaks only Italian |
+| [gorilla-golden-eye](https://github.com/jbisaccia-9/gorilla-golden-eye) | a [playable browser FPS](https://jbisaccia-9.github.io/gorilla-golden-eye/) with three missions, enemy combat, objectives, and desktop and touch controls | a walking, talking gorilla secret agent who speaks only Italian |
 
 ## Elsewhere
 
