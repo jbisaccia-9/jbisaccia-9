@@ -8,7 +8,7 @@ organizations that had to adopt them; the last two building production AI.
 
 ## The *-gate* projects
 
-Seven small, complete harnesses with one thesis: **nothing ships until it
+Eight small, complete harnesses with one thesis: **nothing ships until it
 passes a gate — and the gate itself must be earned.**
 
 | repo | the gate | the claim it protects |
@@ -20,6 +20,7 @@ passes a gate — and the gate itself must be earned.**
 | [perm-gate](https://github.com/jbisaccia-9/perm-gate) | zero leaks under scoped credentials — and the prompt-layer failure must stay demonstrable | "the guardrail prompt makes it safe" |
 | [rag-gate](https://github.com/jbisaccia-9/rag-gate) | an index serves only above recall@3 ≥ 0.90 on labeled queries — it already caught its own baseline's defect | "the RAG system found the right context" |
 | [target-gate](https://github.com/jbisaccia-9/target-gate) | no outbound list is sent until identifiers, freshness, dedupe, and coverage all clear — delivery is wired behind the gate | "sales can trust this list" |
+| [brand-gate](https://github.com/jbisaccia-9/brand-gate) | a Claude Code skill brands every deliverable by default — and no file ships until `brand_check.py` clears it by rule number | "this document is on brand" |
 
 ## The site that fronts them
 
