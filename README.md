@@ -41,7 +41,7 @@ attached.
 | repo | the game | the hook |
 |---|---|---|
 | [gorilla-golden-eye](https://github.com/jbisaccia-9/gorilla-golden-eye) | a [playable browser FPS](https://jbisaccia-9.github.io/gorilla-golden-eye/) with three missions, enemy combat, objectives, and desktop and touch controls | a walking, talking gorilla secret agent who speaks only Italian |
-| [Monkey No-Fly Zone](https://github.com/jbisaccia-9/joseph-career-platform/tree/main/web) | a [playable 3D survival flight game](https://monkey-no-fly-zone.josephbisaccia766.chatgpt.site/) with streamed cities, fighter formations, homing missiles, return fire, and desktop and touch controls | a mechanically winged monkey flying head-first through escalating military airspace |
+| [Monkey No-Fly Zone](https://monkey-no-fly-zone.josephbisaccia766.chatgpt.site/) | a playable 3D survival flight game with streamed cities, fighter formations, homing missiles, return fire, and desktop and touch controls | a mechanically winged monkey flying head-first through escalating military airspace |
 
 Monkey No-Fly Zone began as a small 2D arcade experiment and was rebuilt with a master 3D design audit plus focused AI sub-agents for the player rig, city streaming, combat, effects, audio, mobile UI, and release QA. The current release bundles seven modules into 621.1 KB, verifies 29 DOM hooks and six automated tests, and ships as a self-contained 4.83 MB HTML game.
 
