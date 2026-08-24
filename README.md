@@ -42,7 +42,7 @@ attached.
 
 | repo | the game | the hook |
 |---|---|---|
-| [gorilla-protocol](https://github.com/jbisaccia-9/gorilla-protocol) · **[PLAY NOW](https://jbisaccia-9.github.io/gorilla-golden-eye/)** | an Unreal Engine 5.8 source vertical slice with tactical AI, Lumen-ready rendering, first-person combat, objectives, extraction, and a documented production-art pipeline; the Play Now link opens its legacy WebGL companion while UE5 and production assets are still required | an original gorilla operative whose spoken dialogue is Italian |
+| [gorilla-protocol](https://github.com/jbisaccia-9/gorilla-protocol) · **[PLAY WEBGL PROTOTYPE](https://jbisaccia-9.github.io/gorilla-golden-eye/)** | an Unreal Engine 5.8 source vertical slice with tactical AI, Lumen-ready rendering, first-person combat, objectives, extraction, Pixel Streaming 2 deployment scaffolding, and a documented production-art pipeline; UE5, a packaged build, production assets, and a paid GPU host are still required | an original gorilla operative whose spoken dialogue is Italian |
 | [gorilla-golden-eye](https://github.com/jbisaccia-9/gorilla-golden-eye) | the legacy [playable browser FPS prototype](https://jbisaccia-9.github.io/gorilla-golden-eye/) with three missions, enemy combat, objectives, and desktop and touch controls | the experiment that established the gorilla-agent concept before the native UE5 rebuild |
 | [monkey-no-fly-zone](https://github.com/jbisaccia-9/monkey-no-fly-zone) | a [playable 3D survival flight game](https://jbisaccia-9.github.io/monkey-no-fly-zone/) with streamed cities, fighter formations, homing missiles, return fire, and desktop and touch controls | a mechanically winged monkey flying head-first through escalating military airspace |
 
