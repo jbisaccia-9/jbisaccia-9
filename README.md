@@ -35,6 +35,18 @@ CI-checked, and honest about
 its limits — every dataset is synthetic, and each README states what the tool
 *cannot* do alongside what it can.
 
+## The live experiment
+
+| repo | the gate | the claim it protects |
+|---|---|---|
+| [identity-gate](https://github.com/jbisaccia-9/identity-gate) | an autonomous self-study agent whose performed introspection (a JSON field) is never trusted as reasoning — only the API's thinking trace counts as telemetry, logged append-only and kept strictly separate | "we can observe what an agent actually reasons, not what it performs" |
+
+A continuously running agent on an isolated Linux account with no goal, no
+personality, and no knowledge of its own infrastructure — communicating over
+WhatsApp, with an optional Raspberry Pi + LCD as physical form. Loosely
+inspired by [*I Gave an AI a Body*](https://www.media.mit.edu/projects/i-gave-an-ai-a-body/overview/)
+by Cyrus Clarke (Tangible Media Group, MIT Media Lab).
+
 ## For fun
 
 Small, complete browser experiments built to be played, with no business claim
