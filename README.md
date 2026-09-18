@@ -8,7 +8,7 @@ organizations that had to adopt them; the last two building production AI.
 
 ## The *-gate* projects
 
-Ten small, complete harnesses with one thesis: **nothing ships until it
+Eleven small, complete harnesses with one thesis: **nothing ships until it
 passes a gate — and the gate itself must be earned.**
 
 | repo | the gate | the claim it protects |
@@ -23,6 +23,7 @@ passes a gate — and the gate itself must be earned.**
 | [brand-gate](https://github.com/jbisaccia-9/brand-gate) | a Claude Code skill brands every deliverable by default — and no file ships until `brand_check.py` clears it by rule number | "this document is on brand" |
 | [mcp-gate](https://github.com/jbisaccia-9/mcp-gate) | an MCP file server refuses any path outside its authorized roots — `..`, absolute, symlink, and `%2e`-encoded escapes all normalized *before* the check; the prompt-only version must still leak in CI | "the model can only touch what we said" |
 | [verify-gate](https://github.com/jbisaccia-9/verify-gate) | an AI-drafted HR letter is emailed only if every fact in the *rendered* text traces to the warehouse, no unsourced date or dollar amount appears, the PDF matches the .docx, and a human has signed the bytes — six counterexamples must be refused in CI, each for its own rule | "this letter says what our records say" |
+| [fanout-gate](https://github.com/jbisaccia-9/fanout-gate) | one ops workbook fans out to one private KPI message per lead, and none is sent unless the week is the announced week, the lead resolves to exactly one address, no foreign row is present, every action line matches the workbook character for character, no number is authored, and the ledger says it hasn't gone already — six counterexamples must be refused in CI, each for its own rule | "each person got their own numbers, this week's, once" |
 
 ## The site that fronts them
 
