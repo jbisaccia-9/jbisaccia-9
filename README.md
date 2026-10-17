@@ -8,7 +8,7 @@ organizations that had to adopt them; the last two building production AI.
 
 ## The *-gate* projects
 
-Thirteen small, complete harnesses with one thesis: **nothing ships until it
+Fourteen small, complete harnesses with one thesis: **nothing ships until it
 passes a gate — and the gate itself must be earned.**
 
 | repo | the gate | the claim it protects |
@@ -26,6 +26,7 @@ passes a gate — and the gate itself must be earned.**
 | [fanout-gate](https://github.com/jbisaccia-9/fanout-gate) | one ops workbook fans out to one private KPI message per lead, and none is sent unless the week is the announced week, the lead resolves to exactly one address, no foreign row is present, every action line matches the workbook character for character, no number is authored, and the ledger says it hasn't gone already — six counterexamples must be refused in CI, each for its own rule | "each person got their own numbers, this week's, once" |
 | [absence-gate](https://github.com/jbisaccia-9/absence-gate) | a weekly job checks a portal before chasing anyone by email, and a page that didn't load is never read as a document that isn't there — every tracker write traces to a document the portal really showed, notices are numbered, capped and sent exactly once, and seven counterexamples must be refused in CI, each for its own rule | "nobody was chased for something already on file" |
 | [redline-gate](https://github.com/jbisaccia-9/redline-gate) | a model proposes fixes to a draft as tracked changes in the author's own file, and nothing is delivered unless every edit is anchored to real text, cites a verified rule and adds no number nobody supplied, every item is checked, rejecting all changes gives back the original, and changes from earlier notes survive later rounds — eight counterexamples must be refused in CI | "every change is cited, reversible, and approved" |
+| [lens-gate](https://github.com/jbisaccia-9/lens-gate) | an AI answer or dashboard edit reaches a person only if it ran under their own session, every query stayed inside their role's connections, every chart landed in a collection they curate, Metabase agrees with the directory about who they are, and every number traces to a result the gate re-ran as them — six counterexamples must be refused in CI, each for its own rule | "the chatbot only shows you what your own dashboards could" |
 
 ## The site that fronts them
 
